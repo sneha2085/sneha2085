@@ -1,7 +1,14 @@
 class print<br>
+{<br>
 {
-public static void mai(String[]args)
+public static void mai(String[]args)<br>
 {
-System.out.println("Day 1 of 30 days of code");
+{<br>
+{
+System.out.println("Day 1 of 30 days of code");<br>
+{
+}<br>
+{
 }
-}
+<br>
+{
